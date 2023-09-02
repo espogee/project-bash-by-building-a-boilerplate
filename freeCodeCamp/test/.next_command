@@ -162,3 +162,5 @@ find
 rm background.jpg ./images
 cd images
 rm background.jpg
+cd ..
+rmdir images
