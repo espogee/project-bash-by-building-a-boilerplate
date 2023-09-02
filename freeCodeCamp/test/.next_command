@@ -43,3 +43,6 @@ cd has
 ls --color=auto
 more README.md
 __vsc_prompt_cmd_original
+cd ..
+cd has
+ls --color=auto
