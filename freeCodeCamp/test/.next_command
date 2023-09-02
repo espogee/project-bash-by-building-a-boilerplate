@@ -56,3 +56,5 @@ ls --color=auto
 more index.js
 cd ..
 cd ..
+cd../..
+cd ../..
