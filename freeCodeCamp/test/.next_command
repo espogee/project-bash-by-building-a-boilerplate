@@ -46,3 +46,5 @@ __vsc_prompt_cmd_original
 cd ..
 cd has
 ls --color=auto
+more LICENSE-MIT
+__vsc_prompt_cmd_original
